@@ -8,7 +8,9 @@
 
 
 
-![Mr.Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirrogozin&show_icons=true&theme=dark)
+![Mr.Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirrogozin&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirrogozin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 📫 How to reach me:
 
