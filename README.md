@@ -1,4 +1,12 @@
-Hi! I'm Mr.Red and I'm working on the future.
+```diff
+-   ____  ___)    /    _____          __     __)         _____           
+   (, /   /  ,   /    (, /  /        (, /|  /|          (, /   )      /)
+-    /---/      /       /   ___        / | / |  __        /__ /  _  _(/  
+  ) /   (___(_ o    ___/__  // (_   ) /  |/  |_/ (_ o  ) /   \__(/_(_(_  
+-(_/              (__ /            (_/   '            (_/                
+```
+
+
 
 ![Mr.Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirrogozin&show_icons=true&theme=dark)
 
