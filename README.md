@@ -18,5 +18,6 @@
 * 📧 vladimir20040609@gmail.com
 * 🐦twitter@Red_Vladimir_
 
-💻 PC/Mac:
+💻 Tools:
 * Macbook Air 2017 i5-1.8GHz 8Gb 128Gb
+* Iphone Xr 128Gb
