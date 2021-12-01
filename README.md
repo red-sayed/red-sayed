@@ -8,7 +8,7 @@
 
 
 
-![Mr.Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirrogozin&show_icons=true&theme=dark&border_color=ffbc00&icon_color=ff3f36) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirrogozin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Mr.Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirrogozin&show_icons=true&theme=dark&border_color=ffbc00&icon_color=ff3f36) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirrogozin&layout=compact&theme=dark&border_color=ffbc00&icon_color=ff3f36)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
