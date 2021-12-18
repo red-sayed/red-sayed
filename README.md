@@ -14,10 +14,10 @@
 #
 📫 How to reach me:
 
-* :octocat: Github@vladimirrogozin
-* 📧 vladimir20040609@gmail.com
-* 🐦twitter@Red_Vladimir_
+* :octocat: _Github@vladimirrogozin_
+* 📧 _vladimir20040609@gmail.com_
+* 🐦 _twitter@Red_Vladimir__
 
 💻 Tools:
-* Macbook Air 2017 i5-1.8GHz 8Gb 128Gb
-* Iphone Xr 128Gb
+* _Macbook Air 2017 i5-1.8GHz 8Gb 128Gb_
+* _Iphone Xr 128Gb_
