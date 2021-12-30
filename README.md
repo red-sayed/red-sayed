@@ -6,7 +6,7 @@
 -(_/              (__ /            (_/   '            (_/                
 ```
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Building+your+future.)](https://git.io/typing-svg)
 
 ![Mr.Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirrogozin&show_icons=true&theme=dark&border_color=ffbc00&icon_color=ff3f36&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirrogozin&layout=compact&theme=dark&border_color=ffbc00&icon_color=ff3f36)](https://github.com/anuraghazra/github-readme-stats)
 
