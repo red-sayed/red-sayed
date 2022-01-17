@@ -19,5 +19,5 @@
 * 🐦 _twitter@Red_Vladimir__
 
 💻 Tools:
-* _Macbook Air 2017 i5-1.8GHz 8Gb 128Gb_
+* _Macbook Air 2020 M1 16Gb 512Gb_
 * _Iphone Xr 128Gb_
