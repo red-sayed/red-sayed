@@ -16,7 +16,7 @@
 
 * :octocat: _Github@vladimirrogozin_
 * 📧 _vladimir20040609@gmail.com_
-* 🐦 _twitter@Red_Vladimir__
+* 🐦 _twitter@Red_VA__
 
 💻 Tools:
 * _Macbook Air 2020 M1 16Gb 512Gb_
