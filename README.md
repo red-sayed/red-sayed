@@ -1,3 +1,7 @@
+<img src="https://github.com/vladimirrogozin/vladimirrogozin/blob/main/Red_logo_cal.png?raw=true" style="object-fit:contain;
+            width:auto;
+            height:auto;">
+            
 ```diff
 -   ____  ___)    /    _____          __     __)         _____           
    (, /   /  ,   /    (, /  /        (, /|  /|          (, /   )      /)
