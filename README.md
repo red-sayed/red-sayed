@@ -19,7 +19,7 @@
 📫 How to reach me:
 
 * :octocat: _Github@vladimirrogozin_
-* 📧 _vladimir20040609@gmail.com_
+* 📧 _sayed.rid@icloud.com_
 * 🐦 _twitter@Red_VA__
 
 💻 Tools:
