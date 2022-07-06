@@ -3,11 +3,11 @@
             height:auto;">
             
 ```diff
--                  ____  ___)              /    _____          __     __)         _____                             -
-                  (, /   /      /) /)     /    (, /  /        (, /|  /|          (, /   )      /)
--                   /---/   _  // // ___ /       /   ___        / | / |  __        /__ /  _  _(/                    -
-                 ) /   (___(/_(/_(/_(_) o    ___/__  // (_   ) /  |/  |_/ (_ o  ) /   \__(/_(_(_              
--               (_/                        (__ /            (_/   '            (_/                                  -
+-                 ____  ___)              /    _____          __     __)         _____                           -
+                 (, /   /      /) /)     /    (, /  /        (, /|  /|          (, /   )      /)
+-                  /---/   _  // // ___ /       /   ___        / | / |  __        /__ /  _  _(/                  -
+                ) /   (___(/_(/_(/_(_) o    ___/__  // (_   ) /  |/  |_/ (_ o  ) /   \__(/_(_(_             
+-              (_/                        (__ /            (_/   '            (_/                                -
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Building+your+future.;Let's+securize+this+world!;Let's+continue+learning!;Let’s+get+after+it+relentlessly!)](https://git.io/typing-svg)
