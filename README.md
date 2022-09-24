@@ -27,7 +27,7 @@
 * 🐦 _twitter@Red_VA__
 
 💻 Tools:
-* _Macbook Pro 2022 M1Max 32Gb 1Tb
+* _Macbook Pro 2022 M1Max 32Gb 1Tb_
 * _Macbook Air 2020 M1    16Gb 512Gb_
 * _Iphone Xr 128Gb_
 
