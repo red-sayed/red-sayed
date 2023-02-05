@@ -23,7 +23,7 @@
 📫 How to reach me:
 
 * :octocat: _Github@red-sayed_
-* 📧 _sayed.rid@icloud.com_
+* 📧 _vlad.rogozin@bhcc.edu_
 * 🐦 _twitter@Red_VA__
 
 💻 Tools:
