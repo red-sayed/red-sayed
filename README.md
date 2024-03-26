@@ -17,8 +17,6 @@
 ![Mr.Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-sayed&show_icons=true&theme=dark&border_color=ffbc00&icon_color=ff3f36&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-sayed&layout=compact&theme=dark&border_color=ffbc00&icon_color=ff3f36)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-📑 [_Degrees/Certificates_](https://github.com/red-sayed/Successes)
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 📫 How to reach me:
 
